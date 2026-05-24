@@ -1,4 +1,4 @@
-numeros = [5]
+numeros = []
 
 print("---- Digite 5 números ----")
 
